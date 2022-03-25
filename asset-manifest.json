@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/consultorio/static/css/main.924a1f72.css",
+    "main.js": "/consultorio/static/js/main.bedd5ac4.js",
+    "static/js/787.a687cf8e.chunk.js": "/consultorio/static/js/787.a687cf8e.chunk.js",
+    "static/media/banner-consultas.jpg": "/consultorio/static/media/banner-consultas.0bab760d0d48fecda426.jpg",
+    "index.html": "/consultorio/index.html",
+    "main.924a1f72.css.map": "/consultorio/static/css/main.924a1f72.css.map",
+    "main.bedd5ac4.js.map": "/consultorio/static/js/main.bedd5ac4.js.map",
+    "787.a687cf8e.chunk.js.map": "/consultorio/static/js/787.a687cf8e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.924a1f72.css",
+    "static/js/main.bedd5ac4.js"
+  ]
+}
