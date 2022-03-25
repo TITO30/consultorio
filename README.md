@@ -10,3 +10,8 @@
 1- Se debe tener instalado Docker y en la misma línea de comandos en la raiz del proyecto ejecuta docker-compose build
 2- Posteriormente corre docker-compose up
 3- Abre http://localhost:3000 ahí se desplegará la imágen de Docker.
+
+
+# Aplicaicón publicada en:
+
+https://tito30.github.io/consultorio/
