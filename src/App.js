@@ -13,7 +13,7 @@ function App() {
       <ContextProvider>
         <Header />
         <Routes>
-          <Route exact path="/consultorio" element={<HomePage />} />
+          <Route exact path="/" element={<HomePage />} />
           <Route path="/consulta" element={<Consulta />} />
           <Route path="/citas" element={<Citas />} />
         </Routes>
